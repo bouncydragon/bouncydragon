@@ -74,6 +74,6 @@ src="https://img.shields.io/github/followers/bouncydragon?logo=github&style=for-
 
 <p align="center">
   <a href="https://github.com/bouncydragon">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bouncydragon&theme=radical" alt="Duane's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bouncydragon&theme=monokai" alt="Duane's GitHub Contribution"/>
   </a>
 </p>
